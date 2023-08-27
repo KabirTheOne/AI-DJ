@@ -1,0 +1,46 @@
+body {
+    background-image: url("Anime.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-family: 'Dancing Script', cursive;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+
+button {
+    background-color: rgb(66, 57, 71);
+    height: 50px;
+    width: 75px;
+}
+
+#speed_div {
+    float: left;
+    margin: 10px;
+}
+
+#volume_div {
+    float: right;
+    margin: 10px;
+}
+
+img {
+    padding: 5px;
+    width: 400px;
+    border-radius: 15px;
+}
+
+#Kabir {
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    background-color: rgb(128, 125, 121);
+}
+
+h1 {
+    text-shadow: 2px 2px 2px rgb(20, 21, 23)
+}
+
+canvas {
+    margin-top: 70px;
+}
